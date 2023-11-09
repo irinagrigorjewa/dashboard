@@ -1,0 +1,32 @@
+@font-face {
+  font-family: 'Inter-Thin';
+  src: url('styles/fonts/Inter-Thin.ttf');
+  /* src: url('fonts/FuturaPT-Medium.woff') format('woff'),
+      url('./fonts/FuturaPT-Medium.woff2') format('woff2'); */
+}
+@font-face {
+  font-family: 'Inter-Regular';
+  src: url('styles/fonts/Inter-Regular.ttf');
+  /* src: url('fonts/FuturaPT-Medium.woff') format('woff'),
+      url('./fonts/FuturaPT-Medium.woff2') format('woff2'); */
+}
+@font-face {
+  font-family: 'Inter-Medium';
+  src: url('styles/fonts/Inter-Medium.ttf');
+  /* src: url('fonts/FuturaPT-Medium.woff') format('woff'),
+      url('./fonts/FuturaPT-Medium.woff2') format('woff2'); */
+}
+
+@font-face {
+  font-family: 'Inter-Black';
+  src: url('styles/fonts/Inter-Black.ttf');
+  /* src: url('fonts/FuturaPT-Book.woff') format('woff'),
+      url('./fonts/FuturaPT-Book.woff2') format('woff2'); */
+}
+
+@font-face {
+  font-family: 'Inter-Bold';
+  src: url('styles/fonts/Inter-Bold.ttf');
+  /* src: url('fonts/FuturaPT-Demi.woff') format('woff'),
+      url('./fonts/FuturaPT-Demi.woff2') format('woff2'); */
+}
